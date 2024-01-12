@@ -1,14 +1,17 @@
-#Felipe Nunes
+## Olá👋
 
-- 🔭 hoje faço back-end 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-  
+
+## 🙅‍♂️Quem sou?🙅‍♂️
+
+Sou o  Felipe, um Programador iniciante, Estudante no Curso De TGPSI(Tecnico de Gestão e Programação de Sistemas Informaticos) com habilidades em C e Java.
+
+<h3>
+Oque atualimente tenho no meu GitHub 👌
+</h3>
+- 🗂Exemplos que ultilizo para Programar
+- 📘Meus Trabalhos do Curso
+- 🧠Projetos
+   
 ##
   
 <div> 
